@@ -15,30 +15,41 @@ I have tried to reproduce and verify the tile shapes as best I can, but I'm not 
 ## Torange
 
 ![Torange](torange/torange.svg)
+![Torange with straps](torange/torange_straps.svg)
 
 ## Pange
 
 ![Pange](pange/pange.svg)
+![Pange with straps](pange/pange_straps.svg)
 
 ## Tabl
 
 ![Tabl](tabl/tabl.svg)
+![Tabl with straps](tabl/tabl_straps.svg)
 
 ## Shesh Band
 
 ![Shesh Band](shesh_band/shesh_band.svg)
+![Shesh Band with straps](shesh_band/shesh_band_straps.svg)
 
 ## Sormeh Dan
 
 ![Sormeh Dan](sormeh_dan/sormeh_dan.svg)
+![Sormeh Dan with straps](sormeh_dan/sormeh_dan_straps.svg)
+
+# Troubleshooting
+
+The latest version of FreeCAD (v0.20.2) may not render angle constraints in the correct location on Windows.
+
+[The FreeCAD team appears to be aware of the issue,](https://github.com/FreeCAD/FreeCAD/issues/8220) so it should be addressed in a future release. For now, you may be able to use the [slightly older v0.20.1 release](https://github.com/FreeCAD/FreeCAD/releases/tag/0.20.1) if the CAD drawings do not render correctly.
 
 # Future Work
 
 I would like to add the extended sets of tiles and adapters described in Eriksson, 2021.
 
-The FreeCAD sketches are sort of messy because I don't know how to move angle constraints, and FreeCAD sometimes puts them in odd places.
+The renders with straps only have a single 'layer'. It might be nice to add versions with overlapping straps, as depicted in Zheng & Aslaksen, Figure 3.
 
-I might be able to make drawings which do a better job of highlighting the important angles and features if I can learn more about the underlying theory. I'd like to find a copy of "Islamic Geometric Patterns: Their Historical Development and Traditional Methods of Construction" by Jay Bonner.
+I might be able to make drawings which do a better job of highlighting important dimensions if I can learn more about the underlying theory. I'd like to find a copy of "Islamic Geometric Patterns: Their Historical Development and Traditional Methods of Construction" by Jay Bonner.
 
 # References
 
@@ -47,3 +58,5 @@ I might be able to make drawings which do a better job of highlighting the impor
 [Eriksson, Lars (26 Jul 2021). The Short Tiles Category. Bridges 2021 Virtual Conference.](https://www.researchgate.net/publication/353444031_The_Short_Tiles_Category)
 
 [Kuhn, Oliver (Sep 2014). Science Break: The Math of Mosaics. CSEG Recorder. Vol. 39 No. 07](https://csegrecorder.com/columns/view/science-break-201409)
+
+[Zheng, Ser & Aslaksen, Helmer (2008). Quasi-Periodicity in Medieval and Islamic architecture and ornament.](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5c7929544b6595d58bbc418fad849d9ee8f16e21)

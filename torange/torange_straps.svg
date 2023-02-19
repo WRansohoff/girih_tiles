@@ -11,11 +11,11 @@
    height="9.5105658mm"
    viewBox="0 0 13.09017 9.5105659"
    version="1.1"
-   id="svg7"
-   sodipodi:docname="torange.svg"
+   id="svg11"
+   sodipodi:docname="torange_straps.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
-     id="metadata13">
+     id="metadata17">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs11" />
+     id="defs15" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,25 +38,29 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1121"
-     id="namedview9"
+     id="namedview13"
      showgrid="false"
-     inkscape:zoom="7.586818"
-     inkscape:cx="-19.074899"
-     inkscape:cy="33.631066"
+     inkscape:zoom="20.874546"
+     inkscape:cx="23.74125"
+     inkscape:cy="17.972722"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7" />
+     inkscape:current-layer="svg11" />
   <path
-     id="Sketch_w0000"
+     id="Sketch001_w0000"
      d="m 0,0 h 10 l 3.09017,9.5105652 h -10 L 0,0"
      stroke="#000000"
      stroke-width="0.35 px"
      style="fill:#ff8000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
   <path
-     id="Sketch_w0001"
-     d="M 5,0 7.5,3.4409548 11.545085,4.7552826 8.09017,9.5105652 5.59017,6.0696104 1.545085,4.7552826 5,0"
+     id="Sketch001_w0001"
+     d="M 4.9999999,0.4253254 7.3454916,3.6536178 11.140577,4.8867153 8.0901702,9.08524 5.744678,5.8569474 1.9495935,4.6238497 4.9999999,0.4253254"
      stroke="#000000"
      stroke-width="0.35 px"
-     style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+     style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     id="path849"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 4.9999999,0.4253254 7.3454916,3.6536178 11.140577,4.8867153 8.0901702,9.08524 5.744678,5.8569474 1.9495935,4.6238497 4.9999999,0.4253254 M 11.640577,5.0491751 8.3991868,9.5105652 H 7.7811531 L 5.4356615,6.282273 1.6405765,5.0491751 1.4495935,4.4613898 4.6909829,0 h 0.618034 l 2.3454914,3.2282919 3.7950857,1.2330979 z" />
 </svg>
